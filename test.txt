@@ -1,1 +1,1 @@
-wrong message for test.txt
+testing text
